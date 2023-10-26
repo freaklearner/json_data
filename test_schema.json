@@ -1,0 +1,8 @@
+[{
+    "name": "order_date",
+    "type": "date",
+    "format": "%Y-%-m-%-d"
+},{
+    "name":"sales_value",
+    "type":"number"
+}]
